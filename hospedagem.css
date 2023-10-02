@@ -1,0 +1,45 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: bisque;
+    background-image: url("img/viagens.jpg");
+    background-size:cover;
+    margin-top: auto;
+    color: antiquewhite;
+    text-align: center;
+}
+.home, a{
+    color: aliceblue;
+    float: left;
+   
+    
+}
+footer{
+    text-align: justify;
+    margin-left: 3px;
+    
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    float: right;
+    
+  }
+  li a {
+    display: block;
+    padding: .5em 1em;
+    color: #f3dc30;
+    background-color: rgb(42, 65, 65);
+    border-bottom: 2px;
+  }
+  h2{
+    color: black;
+    margin-left: 80%;
+  }
