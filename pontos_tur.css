@@ -3,10 +3,10 @@
     padding: 0;
 }
 img{
-    padding:52px;
-    height: 150px;
-    width: 200px;
-}
+    padding:2em;
+    height: 25em;
+    width: 30em;
+  }
 body{
     background-image: url("img/torre eiffel.jpg");
     background-color: bisque;
@@ -45,7 +45,7 @@ p{
 }
 h3{
     color: aquamarine;
-    text-align:justify;
+    text-align: center;
 }
 .second{
     float: left;

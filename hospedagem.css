@@ -11,6 +11,11 @@ body{
     color: antiquewhite;
     text-align: center;
 }
+img{
+  padding: 0.29em;
+  height: 25em;
+  width: 30em;
+}
 .home, a{
     color: aliceblue;
     float: left;
